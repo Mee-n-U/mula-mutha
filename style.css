@@ -1,0 +1,1325 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+.vd-mula-mutha-wrapper {
+    overflow-x: auto;
+    min-height: 1000px
+}
+
+.vd-mula-mutha {
+    width: 1200px;
+    position: relative;
+    padding-top: 130px;
+    margin: 0 auto;
+    font-family: "Montserrat",sans-serif;
+    color: #119aac;
+    margin-top: 106px;
+    z-index: 1;
+    letter-spacing: -0.2px
+}
+
+@media(max-width: 991.98px) {
+    .vd-mula-mutha {
+        transform-origin:0 0 0;
+        transform: matrix(0.6, 0, 0, 0.6, 0, 0);
+        margin-bottom: -2400px;
+        margin-right: -460px;
+        margin-top: 70px;
+        margin-left: auto
+    }
+}
+
+.vd-mula-mutha__img {
+    width: 1000px;
+    max-width: unset;
+    display: block
+}
+
+.vd-mula-mutha__item {
+    position: absolute
+}
+
+.vd-vegre {
+    width: 70px;
+    position: absolute;
+    top: 0;
+    left: 475px
+}
+
+.vd-mula-mutha__caption {
+    position: absolute
+}
+
+.vd-vegre-caption {
+    top: 80px;
+    left: 535px
+}
+
+.vd-mula-mutha__title {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    line-height: 1.3
+}
+
+.vd-mula-mutha__sub-title {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -4px;
+    line-height: 1.3
+}
+
+.vd-mula-mutha__text {
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 14px
+}
+
+.vd-mula-mountain-1 {
+    left: 155px;
+    top: 180px;
+    width: 285px
+}
+
+.vd-polygonum {
+    top: 160px;
+    width: 290px;
+    right: 243px;
+    left: auto
+}
+
+.vd-polygonum-caption {
+    top: 262px;
+    right: 300px;
+    left: auto;
+    color: #85a951
+}
+
+.vd-mula-mountain-2 {
+    right: 395px;
+    top: 285px;
+    width: 235px;
+    left: auto
+}
+
+.vd-temghar-caption {
+    top: 240px;
+    left: 528px
+}
+
+.vd-mose-caption {
+    top: 277px;
+    left: 357px;
+    line-height: 1.3
+}
+
+.vd-mula-mountain-3 {
+    left: 170px;
+    top: 290px;
+    width: 205px
+}
+
+.vd-mula-mountain-4 {
+    right: -40px;
+    top: 405px;
+    width: 1050px;
+    z-index: -1;
+    left: auto
+}
+
+.vd-mula-mountain-5 {
+    left: 2px;
+    top: 390px;
+    width: 330px;
+    z-index: -1
+}
+
+.vd-ambi-caption {
+    top: 400px;
+    left: 290px
+}
+
+.vd-warasgaon-caption {
+    top: 470px;
+    left: 385px
+}
+
+.vd-panshet-caption {
+    top: 585px;
+    left: 220px;
+    text-align: right
+}
+
+.vd-mutha-banks {
+    top: 350px;
+    right: 460px;
+    width: 185px;
+    left: auto
+}
+
+.vd-mutha-banks-caption {
+    top: 460px;
+    right: 365px;
+    width: 300px;
+    left: auto;
+    color: #424143
+}
+
+.vd-muleshwar {
+    top: 420px;
+    right: 110px;
+    width: 330px;
+    left: auto
+}
+
+.vd-muleshwar-caption {
+    top: 500px;
+    right: 50px
+}
+
+.vd-muleshwar-title {
+    color: #b7732a
+}
+
+.vd-mula-mountain-6 {
+    top: 585px;
+    right: 445px;
+    width: 210px;
+    left: auto
+}
+
+.vd-mula-lake-1 {
+    top: 675px;
+    right: 370px;
+    width: 110px;
+    left: auto
+}
+
+.vd-manas-caption {
+    top: 650px;
+    right: 370px;
+    left: auto
+}
+
+.vd-mutha-caption {
+    top: 680px;
+    left: 525px
+}
+
+.vd-panshet-dam {
+    top: 670px;
+    left: 185px;
+    width: 300px
+}
+
+.vd-panshet-dam-caption {
+    top: 800px;
+    left: 140px;
+    width: 310px
+}
+
+.vd-sinhagad {
+    top: 750px;
+    right: 395px;
+    width: 240px;
+    left: auto
+}
+
+.vd-sinhagad-caption {
+    top: 875px;
+    right: 395px;
+    width: 250px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-mula-mountain-7 {
+    top: 740px;
+    right: 110px;
+    width: 170px;
+    left: auto
+}
+
+.vd-pawna-lake {
+    top: 878px;
+    right: 145px;
+    width: 125px;
+    left: auto
+}
+
+.vd-pawna-lake-caption {
+    top: 830px;
+    right: 205px;
+    left: auto
+}
+
+.vd-pawna-river-source {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #119aac;
+    top: 960px;
+    right: 196px;
+    left: auto
+}
+
+.vd-pawna-river-source-caption {
+    top: 960px;
+    right: 225px;
+    left: auto
+}
+
+.vd-mulshi-dam-caption {
+    top: 1095px;
+    right: 215px;
+    left: auto
+}
+
+.vd-mula-river-caption {
+    top: 1270px;
+    right: 240px;
+    left: auto
+}
+
+.vd-ram-nadi-caption {
+    top: 1200px;
+    right: 345px;
+    left: auto
+}
+
+.vd-mula-mountain-8 {
+    top: 1060px;
+    left: 320px;
+    width: 420px
+}
+
+.vd-khadakwasla-caption {
+    top: 1135px;
+    left: 360px
+}
+
+.vd-mula-mountain-9 {
+    top: 1140px;
+    left: 510px;
+    width: 250px
+}
+
+.vd-nda-hills-caption {
+    top: 1190px;
+    right: 510px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-mula-mountain-10 {
+    top: 1240px;
+    right: 410px;
+    width: 300px;
+    left: auto;
+    z-index: -1
+}
+
+.vd-vetal-hills-caption {
+    top: 1310px;
+    right: 550px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-bhikar-dam {
+    top: 1060px;
+    left: 100px;
+    width: 150px
+}
+
+.vd-bhikar-dam-caption {
+    top: 1170px;
+    left: 130px
+}
+
+.vd-mula-mountain-11 {
+    top: 1255px;
+    left: 90px;
+    width: 280px
+}
+
+.vd-taljai-hills-caption {
+    top: 1310px;
+    left: 240px;
+    color: #b7732a
+}
+
+.vd-katraj-lake {
+    top: 1340px;
+    left: 80px;
+    width: 150px
+}
+
+.vd-katraj-lake-caption {
+    top: 1405px;
+    left: 10px;
+    width: 150px
+}
+
+.vd-parvati {
+    top: 1340px;
+    left: 280px;
+    width: 150px
+}
+
+.vd-parvati-caption {
+    top: 1500px;
+    left: 280px;
+    width: 150px;
+    color: #b7732a
+}
+
+.vd-pashan-lake {
+    top: 1400px;
+    right: 420px;
+    width: 100px;
+    left: auto
+}
+
+.vd-pashan-lake-caption {
+    top: 1460px;
+    right: 430px;
+    left: auto
+}
+
+.vd-rajaram-bridge-caption {
+    top: 1515px;
+    left: 550px;
+    color: #b7732a
+}
+
+.vd-mhatre-bridge-caption {
+    top: 1615px;
+    left: 550px;
+    color: #b7732a
+}
+
+.vd-mula-mountain-12 {
+    top: 1655px;
+    right: 380px;
+    width: 380px
+}
+
+.vd-little-grebe {
+    top: 1790px;
+    right: 400px;
+    width: 220px
+}
+
+.vd-little-grebe-caption {
+    top: 1870px;
+    right: 480px;
+    color: #85a951
+}
+
+.vd-ambil-odha-caption {
+    top: 1730px;
+    left: 280px
+}
+
+.vd-ambil-odha-text {
+    margin-top: 12px
+}
+
+.vd-ambil-odha-old-caption {
+    top: 1865px;
+    left: 400px
+}
+
+.vd-joshi-bridge-caption {
+    top: 1910px;
+    left: 550px;
+    color: #b7732a
+}
+
+.vd-chavan-bridge-caption {
+    top: 2020px;
+    left: 550px;
+    color: #b7732a
+}
+
+.vd-sarasbaug {
+    top: 1890px;
+    left: 90px;
+    width: 190px
+}
+
+.vd-sarasbaug-caption {
+    top: 1940px;
+    left: 290px;
+    width: 190px;
+    color: #b7732a
+}
+
+.vd-mula-mountain-13 {
+    top: 2010px;
+    right: 340px;
+    width: 230px
+}
+
+.vd-mutha-bank-canal-caption {
+    top: 2050px;
+    left: 80px;
+    text-align: right
+}
+
+.vd-nana-saheb {
+    top: 2050px;
+    left: 325px;
+    width: 150px
+}
+
+.vd-nana-saheb-caption {
+    top: 2083px;
+    left: 200px;
+    text-align: right;
+    color: #b7732a
+}
+
+.vd-sambhaji-bridge-caption {
+    top: 2140px;
+    left: 550px;
+    width: 300px;
+    color: #b7732a
+}
+
+.vd-bhide-bridge-caption {
+    top: 2310px;
+    left: 370px;
+    color: #b7732a
+}
+
+.vd-farm {
+    top: 2170px;
+    left: 190px;
+    width: 200px
+}
+
+.vd-omkareshwar {
+    top: 2340px;
+    left: 190px;
+    width: 110px
+}
+
+.vd-omkareshwar-caption {
+    top: 2455px;
+    left: 190px;
+    color: #b7732a
+}
+
+.vd-deccan-masjid {
+    top: 2360px;
+    left: 400px;
+    width: 170px
+}
+
+.vd-deccan-masjid-caption {
+    top: 2500px;
+    left: 400px;
+    color: #b7732a
+}
+
+.vd-pune-university {
+    top: 2310px;
+    right: 360px;
+    width: 200px;
+    left: auto
+}
+
+.vd-pune-university-caption {
+    top: 2520px;
+    right: 430px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-shinde-bridge-caption {
+    top: 2510px;
+    left: 240px;
+    color: #b7732a
+}
+
+.vd-dashakriya-ghat {
+    top: 2557px;
+    left: 390px;
+    width: 100px
+}
+
+.vd-dashakriya-ghat-caption {
+    top: 2595px;
+    left: 380px;
+    color: #b7732a
+}
+
+.vd-pataleshwar-temple {
+    top: 2585px;
+    right: 485px;
+    width: 160px;
+    left: auto
+}
+
+.vd-pataleshwar-temple-caption {
+    top: 2678px;
+    right: 505px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-tilak-bridge-caption {
+    top: 2785px;
+    left: 540px;
+    color: #b7732a
+}
+
+.vd-ganesh-utsav {
+    top: 2605px;
+    left: 190px;
+    width: 170px
+}
+
+.vd-ganesh-utsav-caption {
+    top: 2730px;
+    left: 290px;
+    width: 180px;
+    color: #b7732a
+}
+
+.vd-white-browed-wagtail {
+    top: 2705px;
+    right: 350px;
+    width: 125px;
+    left: auto
+}
+
+.vd-white-browed-wagtail-caption {
+    top: 2820px;
+    right: 350px;
+    color: #85a951
+}
+
+.vd-shaniwar-wada {
+    top: 2870px;
+    right: 420px;
+    width: 300px;
+    left: auto
+}
+
+.vd-shaniwar-wada-caption {
+    top: 3015px;
+    left: 590px;
+    width: 160px;
+    color: #b7732a
+}
+
+.vd-mula-mountain-14 {
+    top: 2930px;
+    left: 240px;
+    width: 180px
+}
+
+.vd-shivaji-bridge-caption {
+    top: 2995px;
+    left: 250px;
+    width: 180px;
+    color: #b7732a
+}
+
+.vd-shree-kasba-ganapati {
+    top: 3075px;
+    left: 245px;
+    width: 75px
+}
+
+.vd-shree-kasba-ganapati-caption {
+    top: 3190px;
+    left: 245px;
+    color: #b7732a
+}
+
+.vd-lal-mahal {
+    top: 3075px;
+    left: 365px;
+    width: 210px
+}
+
+.vd-lal-mahal-caption {
+    top: 3215px;
+    left: 380px;
+    color: #b7732a
+}
+
+.vd-mula-mountain-15 {
+    top: 3175px;
+    right: 460px;
+    width: 170px;
+    left: auto
+}
+
+.vd-sangameshwar-temple {
+    top: 3080px;
+    right: 345px;
+    width: 50px;
+    left: auto
+}
+
+.vd-sangameshwar-temple-caption {
+    top: 3130px;
+    right: 406px;
+    left: auto;
+    color: #b7732a;
+    text-align: right
+}
+
+.vd-kumbharves {
+    top: 3265px;
+    left: 365px;
+    width: 180px
+}
+
+.vd-kumbharves-caption {
+    top: 3220px;
+    right: 370px;
+    width: 270px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-dengale-bridge-caption {
+    top: 3325px;
+    left: 455px;
+    color: #b7732a
+}
+
+.vd-bopodi-bridge-caption {
+    top: 3210px;
+    right: 210px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-river-tern {
+    top: 3355px;
+    right: 355px;
+    width: 135px
+}
+
+.vd-river-tern-caption {
+    top: 3410px;
+    right: 445px;
+    left: auto;
+    color: #85a951
+}
+
+.vd-pheasant-tailed-jacana {
+    top: 3455px;
+    right: 340px;
+    width: 185px
+}
+
+.vd-pheasant-tailed-jacana-caption {
+    top: 3525px;
+    right: 330px;
+    width: 190px;
+    color: #85a951
+}
+
+.vd-sangam-bridge-caption {
+    top: 3550px;
+    right: 460px;
+    width: 190px;
+    color: #b7732a
+}
+
+.vd-butterfly {
+    top: 3580px;
+    right: 400px;
+    width: 35px
+}
+
+.vd-nagzhari-nala-caption {
+    top: 3425px;
+    left: 255px
+}
+
+.vd-mula-river-caption-2 {
+    top: 3365px;
+    right: 240px;
+    left: auto
+}
+
+.vd-yerwada-bridge-caption {
+    top: 3710px;
+    right: 275px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-holkar-bridge-caption {
+    top: 3770px;
+    right: 410px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-sangamwadi-bridge-caption {
+    top: 3790px;
+    left: 540px;
+    color: #b7732a
+}
+
+.vd-mula-mutha-caption {
+    top: 3735px;
+    left: 405px;
+    text-align: right
+}
+
+.vd-mula-mutha-title {
+    text-transform: lowercase
+}
+
+.vd-municipal-coorporation {
+    top: 3470px;
+    left: 190px;
+    width: 240px
+}
+
+.vd-municipal-coorporation-caption {
+    top: 3586px;
+    left: 190px;
+    color: #b7732a
+}
+
+.vd-nageshwar-temple {
+    top: 3650px;
+    left: 205px;
+    width: 170px
+}
+
+.vd-nageshwar-temple-caption {
+    top: 3780px;
+    left: 210px;
+    color: #b7732a
+}
+
+.vd-aissms {
+    top: 3850px;
+    left: 185px;
+    width: 110px
+}
+
+.vd-aissms-caption {
+    top: 3910px;
+    left: 290px;
+    color: #b7732a
+}
+
+.vd-aissms-title {
+    text-transform: none
+}
+
+.vd-ambedkar-bridge-caption {
+    top: 4010px;
+    left: 395px;
+    color: #b7732a
+}
+
+.vd-ganaphati-ghat {
+    top: 3895px;
+    left: 450px;
+    width: 100px;
+    transform: rotate(90deg)
+}
+
+.vd-ganaphati-ghat-caption {
+    top: 3875px;
+    left: 405px;
+    color: #b7732a
+}
+
+.vd-stone-age-caption {
+    top: 3865px;
+    right: 170px;
+    padding: 20px;
+    width: 450px;
+    left: auto;
+    background: #f0f0f0;
+    border-radius: 12px;
+    color: #262626
+}
+
+.vd-stone-age-text {
+    font-size: 16px
+}
+
+.vd-stone-age {
+    top: 3835px;
+    right: 135px;
+    width: 200px
+}
+
+.vd-bund-garden-bridge-caption {
+    top: 4150px;
+    left: 175px;
+    width: 150px;
+    color: #b7732a
+}
+
+.vd-bund-garden-bandhara {
+    top: 4110px;
+    left: 395px;
+    width: 300px
+}
+
+.vd-bund-garden-bandhara-caption {
+    top: 4205px;
+    left: 415px;
+    width: 280px;
+    color: #b7732a
+}
+
+.vd-salim-ali-sanctuary {
+    top: 4050px;
+    right: 155px;
+    width: 230px;
+    left: auto
+}
+
+.vd-salim-ali-sanctuary-caption {
+    top: 4235px;
+    right: 65px;
+    width: 250px;
+    left: auto;
+    color: #85a951
+}
+
+.vd-yerwada-bridge-caption-2 {
+    top: 4310px;
+    left: 220px;
+    color: #b7732a
+}
+
+.vd-empress-garden {
+    top: 4330px;
+    left: 405px;
+    width: 180px
+}
+
+.vd-empress-garden-caption {
+    top: 4475px;
+    left: 420px;
+    color: #85a951
+}
+
+.vd-mula-mountain-16 {
+    top: 4330px;
+    right: 350px;
+    width: 270px;
+    left: auto
+}
+
+.vd-painted-stork {
+    top: 4370px;
+    right: 80px;
+    width: 250px;
+    left: auto
+}
+
+.vd-painted-stork-caption {
+    top: 4460px;
+    right: 255px;
+    left: auto;
+    color: #85a951;
+    text-align: right
+}
+
+.vd-agakhan-bridge-caption {
+    top: 4450px;
+    right: 455px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-bhairoba-nala-caption {
+    top: 4560px;
+    left: 475px
+}
+
+.vd-mula-mountain-17 {
+    top: 4500px;
+    left: 220px;
+    width: 120px
+}
+
+.vd-agakhan-palace {
+    top: 4600px;
+    left: 180px;
+    width: 280px
+}
+
+.vd-agakhan-palace-caption {
+    top: 4780px;
+    left: 250px;
+    color: #b7732a
+}
+
+.vd-crinum-viviparum {
+    top: 4610px;
+    left: 550px;
+    width: 220px
+}
+
+.vd-crinum-viviparum-caption {
+    top: 4720px;
+    left: 580px;
+    color: #85a951
+}
+
+.vd-mula-mountain-18 {
+    top: 4620px;
+    right: 100px;
+    width: 190px;
+    left: auto
+}
+
+.vd-bhimashankar-temple {
+    top: 4850px;
+    right: 150px;
+    width: 350px;
+    left: auto
+}
+
+.vd-bhimashankar-temple-caption {
+    top: 5075px;
+    right: 150px;
+    width: 250px;
+    left: auto;
+    color: #b7732a
+}
+
+.vd-tree {
+    top: 4875px;
+    left: 350px;
+    width: 110px
+}
+
+.vd-bhima-river-source {
+    top: 5040px;
+    right: 420px;
+    left: auto
+}
+
+.vd-bhama-river {
+    top: 5115px;
+    right: 440px;
+    left: auto
+}
+
+.vd-indrayani-river {
+    top: 4980px;
+    left: 500px
+}
+
+.vd-bhima-river {
+    top: 4995px;
+    left: 330px
+}
+
+.vd-velu-river {
+    top: 5120px;
+    left: 430px
+}
+
+.vd-mula-mutha-bhima {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #fff;
+    top: 5008px;
+    border: 4px solid #119aac;
+    left: 176px
+}
+
+.vd-mula-mutha-bhima-caption {
+    top: 5035px;
+    left: 220px
+}
+
+.vd-mula-mutha-bhima-title {
+    text-transform: none
+}
+
+.vd-ujani-dam-caption {
+    top: 5275px;
+    left: 450px
+}
+
+.vd-pandharpur-vitthal-temple {
+    top: 5335px;
+    left: 355px;
+    width: 430px
+}
+
+.vd-pandharpur-vitthal-temple-caption {
+    top: 5365px;
+    left: 425px
+}
+
+.vd-chandrabhaga-bhima-river-caption {
+    top: 5600px;
+    left: 405px
+}
+
+.vd-krishna-river-caption {
+    top: 5550px;
+    left: 150px
+}
+
+.vd-bhima-meets-krishna-caption {
+    top: 5660px;
+    left: 325px
+}
+
+.vd-bhima-meets-krishna-title {
+    text-transform: none
+}
+
+.vd-mutha-bank-canal-caption-2 {
+    top: 4050px;
+    left: 80px;
+    text-align: right
+}
+
+.vd-mula-river-caption-3 {
+    top: 2250px;
+    right: 240px;
+    left: auto
+}
+
+.infinite-scroll .posts-navigation,.infinite-scroll.neverending .site-footer {
+    display: none
+}
+
+.infinity-end.neverending .site-footer {
+    display: block
+}
+
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important
+}
+
+.screen-reader-text:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0,0,0,.6);
+    clip: auto !important;
+    clip-path: none;
+    display: block;
+    font-size: .875rem;
+    font-weight: 700;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000
+}
+
+#primary[tabindex="-1"]:focus {
+    outline: 0
+}
+
+.alignleft {
+    float: left;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em
+}
+
+.alignright {
+    float: right;
+    margin-left: 1.5em;
+    margin-bottom: 1.5em
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em
+}
+
+.vd-padding-0 {
+    padding: 0
+}
+
+.vd-margin-0 {
+    margin: 0
+}
+
+.vd-margin-top-4 {
+    margin-top: 32px
+}
+
+.vd-margin-bottom-4 {
+    margin-bottom: 32px
+}
+
+.vd-margin-top-12 {
+    margin-top: 96px
+}
+
+@media(max-width: 991.98px) {
+    .vd-margin-top-4_md-down {
+        margin-top:32px
+    }
+}
+
+.vd-hide-md {
+    display: block
+}
+
+@media(min-width: 768px) {
+    .vd-hide-md {
+        display:none
+    }
+}
+
+.vd-show-md {
+    display: none
+}
+
+@media(min-width: 768px) {
+    .vd-show-md {
+        display:block
+    }
+}
+
+.vd-hide-lg {
+    display: block
+}
+
+@media(min-width: 992px) {
+    .vd-hide-lg {
+        display:none
+    }
+}
+
+.vd-show-lg {
+    display: none
+}
+
+@media(min-width: 992px) {
+    .vd-show-lg {
+        display:block
+    }
+}
+
+.h-100 {
+    height: 100%
+}
+
+.vd-hide {
+    display: none
+}
+
+.vd-show {
+    display: block
+}
+
+.vd-hidden {
+    visibility: hidden
+}
+
+.vd-visible {
+    visibility: visible
+}
+
+.vd-row-md {
+    display: inline-flex;
+    flex-direction: column
+}
+
+@media(min-width: 768px) {
+    .vd-row-md {
+        flex-direction:row
+    }
+}
+
+.vd-no-focus {
+    outline: none
+}
+
+.vd-flex-row-end {
+    display: flex;
+    justify-content: flex-end
+}
+
+.vd-flex-row-start {
+    display: flex;
+    justify-content: flex-start
+}
+
+.vd-text-center {
+    text-align: center
+}
+
+.vd-text-right {
+    text-align: right
+}
+
+.vd-text-primary {
+    color: #092c4c
+}
+
+.vd-text-primary-200 {
+    color: #607a94
+}
+
+.vd-text-secondary {
+    color: #119aac
+}
+
+.vd-text-normal {
+    font-weight: 400
+}
+
+.vd-text-italic {
+    font-style: italic
+}
+
+.vd-text-white {
+    color: #fff
+}
+
+.vd-text-upper {
+    text-transform: uppercase
+}
+
+.vd-text-mr {
+    font-family: "Mukta",sans-serif;
+    font-weight: 600
+}
