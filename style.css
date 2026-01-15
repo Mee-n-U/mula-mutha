@@ -72,6 +72,14 @@ body{
     line-height: 1.3
 }
 
+.vd-mula-mutha__pawna-river-sub-title {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -4px;
+    line-height: 1.3
+}
+
 .vd-mula-mutha__text {
     display: block;
     font-size: 16px;
@@ -272,6 +280,12 @@ body{
 .vd-pawna-river-source-caption {
     top: 960px;
     right: 225px;
+    left: auto
+}
+
+.vd-pawna-river-caption {
+    top: 1460px;
+    right: 136px;
     left: auto
 }
 
@@ -708,6 +722,13 @@ body{
     color: #b7732a
 }
 
+.vd-rajiv-gandhi-bridge-caption {
+    top: 2350px;
+    right: 160px;
+    left: auto;
+    color: #b7732a
+}
+
 .vd-river-tern {
     top: 3355px;
     right: 355px;
@@ -750,6 +771,11 @@ body{
 .vd-nagzhari-nala-caption {
     top: 3425px;
     left: 255px
+}
+
+.vd-mutha-river-caption {
+    top: 3340px;
+    left: 270px
 }
 
 .vd-mula-river-caption-2 {
@@ -955,6 +981,11 @@ body{
     left: 475px
 }
 
+.vd-mula-mutha-river-caption {
+    top: 4760px;
+    left: 865px
+}
+
 .vd-mula-mountain-17 {
     top: 4500px;
     left: 220px;
@@ -1073,6 +1104,11 @@ body{
 
 .vd-pandharpur-vitthal-temple-caption {
     top: 5365px;
+    left: 425px
+}
+
+.vd-warkari-caption {
+    top: 5540px;
     left: 425px
 }
 
